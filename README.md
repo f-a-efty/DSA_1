@@ -1,1 +1,1 @@
-# DSA_1
+# ALGORITHMS
